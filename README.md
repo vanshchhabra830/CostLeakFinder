@@ -38,7 +38,7 @@ AI Integration: Gemini API
 UI Concept: Terminal / CLI simulation
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/your-username/supply-chain-analyzer.git
+git clone https://github.com/your-username/CostLeakFinder.git
 
 # Navigate into the project
 cd supply-chain-analyzer
